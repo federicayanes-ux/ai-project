@@ -1,6 +1,8 @@
-# AI, in the margins
+# Thinking It Through
 
-A short, personal explainer about artificial intelligence, built for the assignment's public GitHub Pages website. The page covers how AI works, useful applications, reliability, bias, privacy, voice cloning, service outages, electricity demand and possible futures.
+A personal look at artificial intelligence: what I’d use it for, what I’d check, and where I’d draw the line. Published on GitHub Pages. The page covers how AI works, useful applications, reliability, bias, privacy, voice cloning, service outages, electricity demand and possible futures.
+
+Live website: https://federicayanes-ux.github.io/ai-project/
 
 ## Open it
 
