@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="490" viewBox="0 0 560 490">
+  <defs><pattern id="lines" width="22" height="23" patternUnits="userSpaceOnUse"><path d="M0 22H22" stroke="#b8c2bf" stroke-width=".7"/></pattern></defs>
+  <g fill="none" stroke="#22394c" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M67 147Q168 104 266 140L283 379Q185 348 86 392Z" fill="#e4e4d7"/>
+    <path d="M283 379Q393 329 495 350L473 109Q363 94 266 140Z" fill="#e4e4d7"/>
+    <path d="M65 137Q169 95 264 131L281 368Q180 337 82 381Z" fill="#f8f5eb"/>
+    <path d="M281 368Q390 317 491 340L469 98Q363 82 264 131Z" fill="#f8f5eb"/>
+    <path d="M88 154Q171 120 246 146L260 344Q177 320 103 353Z" fill="url(#lines)" stroke="none"/>
+    <path d="M288 148Q373 108 451 116L469 313Q382 300 304 341Z" fill="url(#lines)" stroke="none"/>
+    <path d="M264 131l17 237M270 134l18 226" stroke-width="1"/>
+    <path d="M116 182q52-18 99-9M117 190q47-17 96-9" stroke="#a43d26"/>
+    <path d="M116 238c44-26 115-37 135-10 18 26-39 57-61 38-36-30 68-88 104-61s-27 80-56 56c-42-35 34-103 80-80 54 26-5 84-31 61-27-24 4-70 62-70" stroke="#22394c" stroke-width="2.1"/>
+    <path d="M339 170l12 2-6 11"/>
+    <path d="M126 302q31-7 49-6M130 313q21-5 39-5" stroke-width="1.2"/>
+    <path d="M342 274q35-12 80-10M344 287q31-10 66-9" stroke="#a43d26"/>
+    <path d="M321 314q46 4 78-7" stroke-width="1"/>
+  </g>
+  <g transform="translate(422 165) rotate(21)" stroke="#22394c" stroke-linejoin="round" stroke-width="1.7">
+    <path d="M0 0h16v188l-8 25-8-25Z" fill="#d1b48b"/>
+    <path d="M0 0h16v20H0Z" fill="#a43d26"/>
+    <path d="M0 21h16v9H0Z" fill="#e3e8e5"/>
+    <path d="M0 188h16l-8 25Z" fill="#f3f0e6"/>
+    <path d="M5 204h6l-3 9Z" fill="#22394c"/>
+    <path d="M5 31v154M11 31v154" fill="none" stroke-width=".8"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#22394c" font-style="italic">
+    <text x="100" y="71" font-size="24" transform="rotate(-7 100 71)">a suggestion comes in…</text>
+    <text x="234" y="433" font-size="23" transform="rotate(-4 234 433)">…you keep the pencil.</text>
+  </g>
+  <g fill="none" stroke="#a43d26" stroke-width="1.4" stroke-linecap="round">
+    <path d="M167 80q-46 15-30 58m-9-8 9 8 7-10"/>
+    <path d="M399 403q30-17 24-42m-6 7 6-9 7 7"/>
+    <path d="M49 268l-13-3m16-5-4-11m3 28-9 6M479 57l4-13m5 21 13-4m-8 13 9 7"/>
+  </g>
+</svg>
